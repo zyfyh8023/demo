@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyfyh8023/demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "zyfyh8023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyfyh8023/demo/issues"
+  },
+  "homepage": "https://github.com/zyfyh8023/demo#readme"
+}
